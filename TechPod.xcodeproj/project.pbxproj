@@ -15,6 +15,17 @@
 		F630425B1F6640990072C697 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63042591F6640990072C697 /* LaunchScreen.storyboard */; };
 		F63042661F6640990072C697 /* TechPodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63042651F6640990072C697 /* TechPodTests.swift */; };
 		F63042711F6640990072C697 /* TechPodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63042701F6640990072C697 /* TechPodUITests.swift */; };
+		F630428A1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～ 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F630427F1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～ 2.mp3 */; };
+		F630428B1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F63042801F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～.mp3 */; };
+		F630428C1F66896C0072C697 /* gift.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F63042811F66896C0072C697 /* gift.jpg */; };
+		F630428D1F66896C0072C697 /* gift.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F63042821F66896C0072C697 /* gift.m4a */; };
+		F630428E1F66896C0072C697 /* GIFT.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F63042831F66896C0072C697 /* GIFT.mp3 */; };
+		F630428F1F66896C0072C697 /* sign.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F63042841F66896C0072C697 /* sign.jpg */; };
+		F63042901F66896C0072C697 /* Sign.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F63042851F66896C0072C697 /* Sign.m4a */; };
+		F63042911F66896C0072C697 /* Sign.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F63042861F66896C0072C697 /* Sign.mp3 */; };
+		F63042921F66896C0072C697 /* シーソーゲーム ～勇敢な恋の歌～.m4a in Resources */ = {isa = PBXBuildFile; fileRef = F63042871F66896C0072C697 /* シーソーゲーム ～勇敢な恋の歌～.m4a */; };
+		F63042931F66896C0072C697 /* シーソーゲーム.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F63042881F66896C0072C697 /* シーソーゲーム.jpg */; };
+		F63042941F66896C0072C697 /* シーソーゲーム.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F63042891F66896C0072C697 /* シーソーゲーム.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,17 @@
 		F630426C1F6640990072C697 /* TechPodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TechPodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F63042701F6640990072C697 /* TechPodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechPodUITests.swift; sourceTree = "<group>"; };
 		F63042721F6640990072C697 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F630427F1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～ 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15 シーソーゲーム ～勇敢な恋の歌～ 2.mp3"; sourceTree = "<group>"; };
+		F63042801F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "15 シーソーゲーム ～勇敢な恋の歌～.mp3"; sourceTree = "<group>"; };
+		F63042811F66896C0072C697 /* gift.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gift.jpg; sourceTree = "<group>"; };
+		F63042821F66896C0072C697 /* gift.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = gift.m4a; sourceTree = "<group>"; };
+		F63042831F66896C0072C697 /* GIFT.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = GIFT.mp3; sourceTree = "<group>"; };
+		F63042841F66896C0072C697 /* sign.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sign.jpg; sourceTree = "<group>"; };
+		F63042851F66896C0072C697 /* Sign.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Sign.m4a; sourceTree = "<group>"; };
+		F63042861F66896C0072C697 /* Sign.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Sign.mp3; sourceTree = "<group>"; };
+		F63042871F66896C0072C697 /* シーソーゲーム ～勇敢な恋の歌～.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "シーソーゲーム ～勇敢な恋の歌～.m4a"; sourceTree = "<group>"; };
+		F63042881F66896C0072C697 /* シーソーゲーム.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "シーソーゲーム.jpg"; sourceTree = "<group>"; };
+		F63042891F66896C0072C697 /* シーソーゲーム.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "シーソーゲーム.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +125,7 @@
 				F630424F1F6640990072C697 /* ViewController.swift */,
 				F63042511F6640990072C697 /* Main.storyboard */,
 				F63042571F6640990072C697 /* Assets.xcassets */,
+				F630427E1F66896C0072C697 /* tech_pod */,
 				F63042591F6640990072C697 /* LaunchScreen.storyboard */,
 				F630425C1F6640990072C697 /* Info.plist */,
 				F63042541F6640990072C697 /* TechPod.xcdatamodeld */,
@@ -126,6 +149,24 @@
 				F63042721F6640990072C697 /* Info.plist */,
 			);
 			path = TechPodUITests;
+			sourceTree = "<group>";
+		};
+		F630427E1F66896C0072C697 /* tech_pod */ = {
+			isa = PBXGroup;
+			children = (
+				F630427F1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～ 2.mp3 */,
+				F63042801F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～.mp3 */,
+				F63042811F66896C0072C697 /* gift.jpg */,
+				F63042821F66896C0072C697 /* gift.m4a */,
+				F63042831F66896C0072C697 /* GIFT.mp3 */,
+				F63042841F66896C0072C697 /* sign.jpg */,
+				F63042851F66896C0072C697 /* Sign.m4a */,
+				F63042861F66896C0072C697 /* Sign.mp3 */,
+				F63042871F66896C0072C697 /* シーソーゲーム ～勇敢な恋の歌～.m4a */,
+				F63042881F66896C0072C697 /* シーソーゲーム.jpg */,
+				F63042891F66896C0072C697 /* シーソーゲーム.mp3 */,
+			);
+			path = tech_pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +276,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F63042941F66896C0072C697 /* シーソーゲーム.mp3 in Resources */,
+				F630428E1F66896C0072C697 /* GIFT.mp3 in Resources */,
+				F630428B1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～.mp3 in Resources */,
+				F630428C1F66896C0072C697 /* gift.jpg in Resources */,
+				F63042911F66896C0072C697 /* Sign.mp3 in Resources */,
 				F630425B1F6640990072C697 /* LaunchScreen.storyboard in Resources */,
+				F630428F1F66896C0072C697 /* sign.jpg in Resources */,
 				F63042581F6640990072C697 /* Assets.xcassets in Resources */,
+				F63042931F66896C0072C697 /* シーソーゲーム.jpg in Resources */,
+				F630428A1F66896C0072C697 /* 15 シーソーゲーム ～勇敢な恋の歌～ 2.mp3 in Resources */,
+				F630428D1F66896C0072C697 /* gift.m4a in Resources */,
 				F63042531F6640990072C697 /* Main.storyboard in Resources */,
+				F63042901F66896C0072C697 /* Sign.m4a in Resources */,
+				F63042921F66896C0072C697 /* シーソーゲーム ～勇敢な恋の歌～.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
